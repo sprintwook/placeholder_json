@@ -2,8 +2,7 @@
   "posts": [
     {
 		"id" : 1,
-		"username" : "test",
-		"password" : "12345678",
+		"title" : "test",
 	}
   ]
 }
