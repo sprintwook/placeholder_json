@@ -25,13 +25,6 @@
       "postId": 1
     }
   ],
-  "login": [
-	  {
-		"id": "1",
-		"username": "test",
-		"password": "test"
-	  },
-  ],
   "profile": {
     "name": "typicode"
   }
